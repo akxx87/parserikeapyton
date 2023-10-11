@@ -1,1 +1,1 @@
-Parser ikea python witch sellenium 
+Parser ikea python with using sellenium 
